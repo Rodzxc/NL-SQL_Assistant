@@ -1,0 +1,12 @@
+pandas
+sqlalchemy 
+pymysql
+langchain-community 
+google-ai-generativelanguage==0.6.15 
+langchain-google-genai 
+langchain-core 
+langgraph
+python-dotenv
+streamlit
+langgraph-checkpoint-redis
+streamlit-textcomplete
